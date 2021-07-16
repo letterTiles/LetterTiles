@@ -43590,7 +43590,7 @@ s=r.o3(a.b)
 this.a.KW(a.a,s.a,s.b)},
 $S:259}
 F.vW.prototype={
-M(a,b){return new S.oa(C.vu,"Letter Tiles, by The Good and The Beautiful",X.a_Q(null,C.hI),null)}}
+M(a,b){return new S.oa(C.vu,"Letter Tiles",X.a_Q(null,C.hI),null)}}
 F.oq.prototype={
 aO(){return new F.Bw(C.n)}}
 F.Bw.prototype={
