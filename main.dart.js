@@ -44216,7 +44216,7 @@ if(C.c.w("aeiouy",s.toLowerCase()))r=C.li
 else r=q
 if(s.length>1){q=C.vv.i(0,200)
 q.toString
-r=q}return T.pJ(new V.u5(r,C.vP,4,C.Al,!0,T.Gm(L.YG(s,C.F5),null,null),null),100,80)}}
+r=q}return T.pJ(new V.u5(r,C.vP,4,C.Al,!0,T.Gm(L.YG(s,C.F5),null,null),null),60,50)}}
 F.fD.prototype={
 aG(){return new F.BM(H.c([],t.p),C.n)}}
 F.BM.prototype={
@@ -44252,7 +44252,7 @@ F.TI.prototype={
 $1(a){this.a.Lw(a)},
 $S:276}
 F.TJ.prototype={
-$1(a){return new F.fM(this.a.d.length*80+5,100)},
+$1(a){return new F.fM((this.a.d.length-1)*53+5,100)},
 $S:277}
 F.TP.prototype={
 $0(){this.a.LM()},
@@ -47658,7 +47658,7 @@ C.Cj=new P.q0(1)
 C.m_=new P.v(4294967040)
 C.CR=new A.m(!0,C.l2,null,"monospace",null,null,48,C.fW,null,null,null,null,null,null,null,null,null,C.Cj,C.m_,C.iP,null,"fallback style; consider putting your text in a Material",null,null,null)
 C.EG=new A.m(!0,null,null,null,null,null,null,C.bZ,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-C.F5=new A.m(!0,null,null,null,null,null,60,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+C.F5=new A.m(!0,null,null,null,null,null,30,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 C.z=H.c(s(["Ubuntu","Cantarell","DejaVu Sans","Liberation Sans","Arial"]),t.s)
 C.ES=new A.m(!0,C.w,null,"Roboto",C.z,null,null,null,null,null,null,null,null,null,null,null,null,C.f,null,null,null,"whiteHelsinki headline1",null,null,null)
 C.ET=new A.m(!0,C.w,null,"Roboto",C.z,null,null,null,null,null,null,null,null,null,null,null,null,C.f,null,null,null,"whiteHelsinki headline2",null,null,null)
