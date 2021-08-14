@@ -3,17 +3,15 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "014d422005dd20319b63bd0d44039fe8",
+  "assets/AssetManifest.json": "bcece7bea1ef65ea080652fb59dede0c",
 "assets/assets/Blank%2520Cloud.png": "01246d39ccb00b051ec1491c66718e8d",
 "assets/assets/Branding/App%2520Title.png": "75a81840094e8bd732dda9f51b00cc0a",
-"assets/assets/Branding/desktop.ini": "44d24281ebf09a0285f90baaba945182",
 "assets/assets/Branding/GnB%2520Logo-Dropshadow.png": "f2224ebab69253a9eaa4def5e58d00df",
 "assets/assets/google_fonts/OFL.txt": "cabc2d83f0db00f1c4d8ab4f5cd8a34d",
 "assets/assets/google_fonts/Quicksand-VariableFont_wght.ttf": "51b6fe996746b9607630d2cd0f81b913",
 "assets/assets/Info/Flyout-About.png": "4b4ab37c7b6040b22d43e4b971a419e4",
 "assets/assets/Landscape%252016-9/Bees%252016-9.png": "032ad90252ecf6844adf1a975879674a",
 "assets/assets/Landscape%252016-9/Butterflies%252016-9.png": "e10c9649015788d3ccf33fe6eb009dcc",
-"assets/assets/Landscape%252016-9/desktop.ini": "44d24281ebf09a0285f90baaba945182",
 "assets/assets/Landscape%252016-9/Hills%252016-9.png": "60b6b2010ec3b41e50fb269fcf8815ce",
 "assets/assets/Landscape%252016-9/Landscape-Whole%252016-9.png": "2ae714da6dcd0018126e0c94e7397c6b",
 "assets/assets/Landscape%252016-9/Letters%2520Overlay%252016-9.png": "78a0b5c811a37fc3f269f7fd26e41a9d",
@@ -22,7 +20,6 @@ const RESOURCES = {
 "assets/assets/Landscape%252016-9/Trees%2520Hill%252016-9.png": "b21ffe55eab24cac09bf3e194e1e5401",
 "assets/assets/Landscape%25204-3/Bees%25204-3.png": "912a5cf6a3949fd30d66df2f6477b163",
 "assets/assets/Landscape%25204-3/Butterflies%25204-3.png": "37ad26fbc1313fd21b096f73fedb5d08",
-"assets/assets/Landscape%25204-3/desktop.ini": "44d24281ebf09a0285f90baaba945182",
 "assets/assets/Landscape%25204-3/Hills%25204-3.png": "6374c731c65b268941f493d92682b1c3",
 "assets/assets/Landscape%25204-3/Landscape%25204-3.png": "503fde69d90e45f3a7c68a5428f9b6d1",
 "assets/assets/Landscape%25204-3/Letters%2520Overlay%25204-3.png": "fc5060de3ce69ea6b0ee79d4aac26dc1",
@@ -31,7 +28,6 @@ const RESOURCES = {
 "assets/assets/Landscape%25204-3/Trees%2520Hill%25204-3.png": "922a0c0c14abea079b864b46528ae78b",
 "assets/assets/Lesson%2520Icons/Back-icon-no%2520circle.png": "0fc659545577e8c71490a86e2791c0a4",
 "assets/assets/Lesson%2520Icons/Back-icon.png": "b129ae950cbf368891ebb27799ee71f9",
-"assets/assets/Lesson%2520Icons/desktop.ini": "44d24281ebf09a0285f90baaba945182",
 "assets/assets/Lesson%2520Icons/Gear-icon-no%2520circle.png": "6cd9dfae7126034371d0ccd80b8bc7a2",
 "assets/assets/Lesson%2520Icons/Gear-icon.png": "c63035f7578bb78708e1ffce00c11058",
 "assets/assets/Lesson%2520Icons/Go%2520Back%2520One.png": "147a9d34289f0e6df39ebed3c6b9433c",
@@ -53,9 +49,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "016acb074222d3fbb589c4207f948796",
-"/": "016acb074222d3fbb589c4207f948796",
-"main.dart.js": "b9ed201fb662d7ec5b7d0058f5ea3563",
+"index.html": "21cf407cb4c9500190c712eb308b9f10",
+"/": "21cf407cb4c9500190c712eb308b9f10",
+"main.dart.js": "085c277075fdf6f26e6dcbcaa655a3c7",
 "manifest.json": "667b57d617695152bc8cb1cef352eb2b",
 "version.json": "579dcdc0b4abd93065110cecd12a71b5"
 };
