@@ -3,11 +3,13 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "8273a494b4d77f94285b389ce1aa9526",
+  "assets/AssetManifest.json": "014d422005dd20319b63bd0d44039fe8",
 "assets/assets/Blank%2520Cloud.png": "01246d39ccb00b051ec1491c66718e8d",
 "assets/assets/Branding/App%2520Title.png": "75a81840094e8bd732dda9f51b00cc0a",
 "assets/assets/Branding/desktop.ini": "44d24281ebf09a0285f90baaba945182",
 "assets/assets/Branding/GnB%2520Logo-Dropshadow.png": "f2224ebab69253a9eaa4def5e58d00df",
+"assets/assets/google_fonts/OFL.txt": "cabc2d83f0db00f1c4d8ab4f5cd8a34d",
+"assets/assets/google_fonts/Quicksand-VariableFont_wght.ttf": "51b6fe996746b9607630d2cd0f81b913",
 "assets/assets/Info/Flyout-About.png": "4b4ab37c7b6040b22d43e4b971a419e4",
 "assets/assets/Landscape%252016-9/Bees%252016-9.png": "032ad90252ecf6844adf1a975879674a",
 "assets/assets/Landscape%252016-9/Butterflies%252016-9.png": "e10c9649015788d3ccf33fe6eb009dcc",
@@ -51,9 +53,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "43086d7eca93a514e5cd7294ad593ff4",
-"/": "43086d7eca93a514e5cd7294ad593ff4",
-"main.dart.js": "ee35f07a19f4a747151bd1b43e5a2438",
+"index.html": "0a5d8572ca3718408a656e3eed9fe684",
+"/": "0a5d8572ca3718408a656e3eed9fe684",
+"main.dart.js": "d03615701660f3ff9af84571aa5908f9",
 "manifest.json": "667b57d617695152bc8cb1cef352eb2b",
 "version.json": "579dcdc0b4abd93065110cecd12a71b5"
 };
