@@ -3,10 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "bcece7bea1ef65ea080652fb59dede0c",
+  "assets/AssetManifest.json": "6506c79c9d92bbaa24d062166d4559c0",
 "assets/assets/Blank%2520Cloud.png": "01246d39ccb00b051ec1491c66718e8d",
 "assets/assets/Branding/App%2520Title.png": "75a81840094e8bd732dda9f51b00cc0a",
-"assets/assets/Branding/GnB%2520Logo-Dropshadow.png": "f2224ebab69253a9eaa4def5e58d00df",
+"assets/assets/Branding/GnBLogo.png": "f2224ebab69253a9eaa4def5e58d00df",
+"assets/assets/Branding/Icon.png": "e97c7bdb5f39700efff635dc3d2d6cf2",
 "assets/assets/google_fonts/OFL.txt": "cabc2d83f0db00f1c4d8ab4f5cd8a34d",
 "assets/assets/google_fonts/Quicksand-VariableFont_wght.ttf": "51b6fe996746b9607630d2cd0f81b913",
 "assets/assets/Info/Flyout-About.png": "4b4ab37c7b6040b22d43e4b971a419e4",
@@ -42,16 +43,16 @@ const RESOURCES = {
 "assets/assets/levelK.png": "333d555fa2fada9d0b471171bd971fa8",
 "assets/FontManifest.json": "3da9d71bd4950b5338888dd9e4ed6d5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "7bd42419014242977fd65c9b57a98df9",
+"assets/NOTICES": "4fa2a3ff6b7952979c1171d67b1ae1b8",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "cb5e8b5e9f3428d9cf0b2044659aa9d3",
-"/": "cb5e8b5e9f3428d9cf0b2044659aa9d3",
-"main.dart.js": "951ad4f826906f1787d2c63152665972",
+"index.html": "1e5c7bf97af5092bf354faae0c978006",
+"/": "1e5c7bf97af5092bf354faae0c978006",
+"main.dart.js": "6bc4506649c70ecfb6ca8647a075b6e2",
 "manifest.json": "667b57d617695152bc8cb1cef352eb2b",
 "version.json": "579dcdc0b4abd93065110cecd12a71b5"
 };
