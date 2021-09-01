@@ -3,8 +3,10 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6506c79c9d92bbaa24d062166d4559c0",
+  "assets/AssetManifest.json": "b0074cf3bae01c85336edfb56565027d",
 "assets/assets/Blank%2520Cloud.png": "01246d39ccb00b051ec1491c66718e8d",
+"assets/assets/Branding/AndroidBG.png": "198acb353c7dcca81d3f062355933924",
+"assets/assets/Branding/AndroidFG.png": "3c03accafc5dec78173105d4e10bb650",
 "assets/assets/Branding/App%2520Title.png": "75a81840094e8bd732dda9f51b00cc0a",
 "assets/assets/Branding/GnBLogo.png": "f2224ebab69253a9eaa4def5e58d00df",
 "assets/assets/Branding/Icon.png": "e97c7bdb5f39700efff635dc3d2d6cf2",
@@ -41,6 +43,8 @@ const RESOURCES = {
 "assets/assets/Level%2520Buttons/Level%25202%2520Btn.png": "78dc43bc03f770e3986a54081d12b56f",
 "assets/assets/Level%2520Buttons/Level%2520K%2520Btn.png": "d8124b3c1330fbb7ed2d1d486b733cda",
 "assets/assets/levelK.png": "333d555fa2fada9d0b471171bd971fa8",
+"assets/assets/Menu-v2-16-9.png": "330993c3a70893be8f814c3297381331",
+"assets/assets/Menu-v2-16-9x.png": "330993c3a70893be8f814c3297381331",
 "assets/FontManifest.json": "3da9d71bd4950b5338888dd9e4ed6d5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "5fd6361e506a2f1700e764215a4aa1a0",
@@ -50,8 +54,8 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "1cd9679f0c743cb49e9c81138a27722f",
-"/": "1cd9679f0c743cb49e9c81138a27722f",
+"index.html": "df53e486711441eacda6fe627cf3272b",
+"/": "df53e486711441eacda6fe627cf3272b",
 "main.dart.js": "430428d97ec5b6bd879698c55b9703e1",
 "manifest.json": "667b57d617695152bc8cb1cef352eb2b",
 "version.json": "579dcdc0b4abd93065110cecd12a71b5"
