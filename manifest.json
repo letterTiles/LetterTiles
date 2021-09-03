@@ -1,6 +1,6 @@
 {
-  "name": "letter_cards_prototype",
-  "short_name": "letter_cards_prototype",
+  "name": "letter_tiles",
+  "short_name": "letter_tiles",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0175C2",
