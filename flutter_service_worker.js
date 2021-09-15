@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "3317af7a4c7140bbcc3dc488d4dc78b1",
+  "assets/AssetManifest.json": "a1a9da20d1579f447b3b2f4b162128b5",
 "assets/assets/AndroidFG2.png": "14cb47e01a3f5a2210ec65e25d6885b3",
 "assets/assets/Blank%2520Cloud.png": "01246d39ccb00b051ec1491c66718e8d",
 "assets/assets/Branding/AndroidBG.png": "198acb353c7dcca81d3f062355933924",
@@ -44,8 +44,7 @@ const RESOURCES = {
 "assets/assets/Level%2520Buttons/Level%25202%2520Btn.png": "78dc43bc03f770e3986a54081d12b56f",
 "assets/assets/Level%2520Buttons/Level%2520K%2520Btn.png": "d8124b3c1330fbb7ed2d1d486b733cda",
 "assets/assets/levelK.png": "333d555fa2fada9d0b471171bd971fa8",
-"assets/assets/Menu-v2-16-9.png": "330993c3a70893be8f814c3297381331",
-"assets/assets/Menu-v2-16-9x.png": "330993c3a70893be8f814c3297381331",
+"assets/assets/MenuForeground.png": "5a750734930531f50a4c09dbebfaed6b",
 "assets/FontManifest.json": "3da9d71bd4950b5338888dd9e4ed6d5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "5fd6361e506a2f1700e764215a4aa1a0",
@@ -55,9 +54,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "d41d8cd98f00b204e9800998ecf8427e",
 "icons/Icon-maskable-192.png": "d41d8cd98f00b204e9800998ecf8427e",
 "icons/Icon-maskable-512.png": "d41d8cd98f00b204e9800998ecf8427e",
-"index.html": "d216fcb71de91028c7140cbe26527ac9",
-"/": "d216fcb71de91028c7140cbe26527ac9",
-"main.dart.js": "b95d4f76b05e239d01190477edec521c",
+"index.html": "22ac04622c6179b8b8cf0ce57cddb3c8",
+"/": "22ac04622c6179b8b8cf0ce57cddb3c8",
+"main.dart.js": "f1b0893da41830e08af947718a93cadb",
 "manifest.json": "9f35fc29117829ee0737032b1b85d19a",
 "version.json": "204c03494885c082a1b34cf7f53ea45e"
 };
