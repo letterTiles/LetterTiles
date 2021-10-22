@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "a1a9da20d1579f447b3b2f4b162128b5",
+  "assets/AssetManifest.json": "ed6ad92f172f21224516e64ad63901a2",
 "assets/assets/AndroidFG2.png": "14cb47e01a3f5a2210ec65e25d6885b3",
 "assets/assets/Blank%2520Cloud.png": "01246d39ccb00b051ec1491c66718e8d",
 "assets/assets/Branding/AndroidBG.png": "198acb353c7dcca81d3f062355933924",
@@ -43,6 +43,7 @@ const RESOURCES = {
 "assets/assets/Level%2520Buttons/Level%25201%2520Btn.png": "78b15e0f61bac71db7350e9adb361a61",
 "assets/assets/Level%2520Buttons/Level%25202%2520Btn.png": "78dc43bc03f770e3986a54081d12b56f",
 "assets/assets/Level%2520Buttons/Level%2520K%2520Btn.png": "d8124b3c1330fbb7ed2d1d486b733cda",
+"assets/assets/Level%2520Buttons/PracticeA-Z.png": "b103f66f0831baae598d48f52af8d415",
 "assets/assets/levelK.png": "333d555fa2fada9d0b471171bd971fa8",
 "assets/assets/MenuForeground.png": "5a750734930531f50a4c09dbebfaed6b",
 "assets/FontManifest.json": "3da9d71bd4950b5338888dd9e4ed6d5e",
@@ -54,9 +55,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "d41d8cd98f00b204e9800998ecf8427e",
 "icons/Icon-maskable-192.png": "d41d8cd98f00b204e9800998ecf8427e",
 "icons/Icon-maskable-512.png": "d41d8cd98f00b204e9800998ecf8427e",
-"index.html": "6e0bacdcff52fc547d4f6f01e619fe2e",
-"/": "6e0bacdcff52fc547d4f6f01e619fe2e",
-"main.dart.js": "73f1bfc33cea65708ef034d734748c0e",
+"index.html": "3a120a9549296d8563b35d5dcc84437a",
+"/": "3a120a9549296d8563b35d5dcc84437a",
+"main.dart.js": "42ee852251a540cd866d211babf26d89",
 "manifest.json": "9f35fc29117829ee0737032b1b85d19a",
 "version.json": "204c03494885c082a1b34cf7f53ea45e"
 };
