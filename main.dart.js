@@ -30502,7 +30502,7 @@ r=t.o
 q=A.bZ(a,!1,r)
 q.x=l.r
 q.f=k
-q.FD(Math.min(b.b/(1.1*i+1),s/3/1.2))
+q.FD(Math.min(b.b/(1.1*i+1),(s-50)/4/1.2))
 q.d=s
 s=q.b
 B.b.sl(s,0)
