@@ -30609,7 +30609,7 @@ j=f.c
 i=B.f.di(q,k)
 h=f.d
 g=j*1.2
-m.d=h-(l-(n+1)+1)*(g+(h-(l+1)*g-100)/(l+3))
+m.d=h-(l-(n+1)+1)*(g+(h-(l+1)*g-100)/(l+5))
 m.c=j*i
 r[o]=m}},
 nR(){var s,r=this,q=r.a,p=new A.av(q,new A.OG(),A.ae(q).i("av<1>"))
