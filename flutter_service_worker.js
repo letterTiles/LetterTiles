@@ -30,8 +30,8 @@ const RESOURCES = {
 "assets/NOTICES": "bcc1efbd2e9c82a3e536b6efee1595ff",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "icons/android-icon-144x144.png": "dbc40df879e15ab362924f1aafb02d45",
-"index.html": "0f953d7d360225bbc154da465a720284",
-"/": "0f953d7d360225bbc154da465a720284",
+"index.html": "98ae455d05085132674ce0e673ddc583",
+"/": "98ae455d05085132674ce0e673ddc583",
 "main.dart.js": "86af74be3e8503c7ea8f7908a713af89",
 "manifest.json": "2ebf79023cee92a5c824a88178cbe9a1",
 "version.json": "7ac24d16e38d491bec4e62c2ed9ce749"
