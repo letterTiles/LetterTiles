@@ -31,7 +31,6 @@ const RESOURCES = {
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "icons/android-icon-144x144.png": "dbc40df879e15ab362924f1aafb02d45",
 "index.html": "465f526f597747f7fa84cdaefcc1dc5a",
-"/": "465f526f597747f7fa84cdaefcc1dc5a",
 "main.dart.js": "288c08fdcb1aa0e50470b879a6d83549",
 "manifest.json": "2ebf79023cee92a5c824a88178cbe9a1",
 "version.json": "7ac24d16e38d491bec4e62c2ed9ce749"
@@ -40,7 +39,6 @@ const RESOURCES = {
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = [
-  "/",
 "main.dart.js",
 "index.html",
 "assets/NOTICES",
