@@ -29,12 +29,16 @@ const RESOURCES = {
 "assets/assets/Level_Buttons/PracticeA-Z.png": "2fa24552eff328312f227b1decbce95d",
 "assets/FontManifest.json": "34aa298fa57f91e35eeb744d0c61beee",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "d9d33a0b0008219c58ac4ecffdea1aeb",
+"assets/NOTICES": "02e3e82ed3055c2916861833bba6462e",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "icons/android-icon-144x144.png": "dbc40df879e15ab362924f1aafb02d45",
-"index.html": "55ee139eaddba8d2eea5245f0514615d",
+"index.html": "d6031a5df5cf4d8977e01ac3bcd9c6ef",
  
-"main.dart.js": "33f78eeac866ea05bf10b7843d86de4a",
+"main.dart.js": "901754c7aecd372775f69ad14848c4a5",
 "manifest.json": "0582d3e81039abc45295a73912c26140",
 "version.json": "7ac24d16e38d491bec4e62c2ed9ce749"
 };
