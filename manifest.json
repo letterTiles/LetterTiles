@@ -1,14 +1,19 @@
 {
-  "name": "letter_tiles",
-  "short_name": "letter_tiles",
+  "name": "Good And Beautiful Letter Tiles",
+  "short_name": "Letter Tiles",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#0175C2",
   "theme_color": "#0175C2",
-  "description": "A new Flutter project.",
-  "orientation": "portrait-primary",
+  "description": "A spelling app for kids, using letter tiles",
+  "orientation": "portrait",
   "prefer_related_applications": false,
   "icons": [
+    {
+      "src": "icons/Icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
     {
       "src": "icons/android-icon-144x144.png",
       "sizes": "144x144",
